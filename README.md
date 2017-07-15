@@ -1,3 +1,4 @@
+![Alt text](/Alpha/logo.jpg?raw=true "Alpha Omega")
 ## What is ProjectAlpha?
 
 Project Alpha is a series of plugins from the Alpha Omegea collections. This collections contains twenty four essentials custome coded plugles for the elite of servers! These plugins were coded by TaeHyung_Kim also known as James Kho. 
