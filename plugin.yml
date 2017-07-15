@@ -1,0 +1,6 @@
+name: Alpha
+main: com.jameskho.alpha.Main
+version: 0.1
+commands:
+    alpha:
+        description: Main command for Alpha
